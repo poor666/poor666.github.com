@@ -1,0 +1,22 @@
+{
+  "name": "poor666.github.com",
+  "version": "1.0.0",
+  "description": "personal website",
+  "main": "y",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poor666/poor666.github.com.git"
+  },
+  "author": "João Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poor666/poor666.github.com/issues"
+  },
+  "homepage": "https://github.com/poor666/poor666.github.com#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
